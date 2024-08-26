@@ -1,0 +1,27 @@
+body{
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	text-align: center;
+	align-items:center;
+	border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+	border-top-right-radius: 40px;
+	border-top-left-radius: 40px;
+}
+.class1{
+	margin-left:3cm;
+	margin-right:3cm;
+	background:white;
+	border:solid;
+	border-color: #72A0C1;
+	border-bottom-right-radius: 40px;
+	border-bottom-left-radius: 40px;
+	border-top-right-radius: 40px;
+	border-top-left-radius: 40px;
+	border-width:50px;
+	border-right-width:30px;
+}
+
+
+
